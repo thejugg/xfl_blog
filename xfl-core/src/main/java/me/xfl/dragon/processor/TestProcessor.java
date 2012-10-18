@@ -14,7 +14,7 @@ import me.xfl.jugg.servlet.renderer.freemarker.AbstractFreeMarkerRenderer;
 
 /**
  * 测试用的页面处理类。
- * @author Administrator
+ * @author Administrator.
  *
  */
 @RequestProcessor
